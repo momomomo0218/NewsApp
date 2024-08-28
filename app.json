@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+
+    "extra": {
+      "newsApiKey": "10e724a6b3f0404296035823721f97c3",
+      "weatherApiKey": "245e20448a34d4ff5d25299a982f6cdf"
     }
+
   }
 }
